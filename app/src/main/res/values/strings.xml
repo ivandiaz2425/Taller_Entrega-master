@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller_quiz</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="PantallaUsers">Usuario/Users</string>
+    <string name="PantallaPost">Publicaciones/Posts</string>
+    <string name="PantallaComments">Comentarios/Comments</string>
+</resources>
